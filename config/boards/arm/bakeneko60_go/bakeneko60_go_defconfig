@@ -33,5 +33,8 @@ CONFIG_ZMK_RGB_UNDERGLOW_BRT_MAX=50
 
 CONFIG_ZMK_SLEEP=y
 
+# enable mouse click
+CONFIG_ZMK_POINTING=y
+
 # Turn on logging, and set ZMK logging to debug output
 # CONFIG_ZMK_USB_LOGGING=y
